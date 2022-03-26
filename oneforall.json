@@ -1,0 +1,15 @@
+{
+    "apps": [
+        {
+            "name": "paradizGame",
+            "script": "index.js",
+            "args": [
+                "--color"
+              ],
+              "env": { "DEBUG_COLORS": true }
+        }
+       
+    ]
+    
+    
+}

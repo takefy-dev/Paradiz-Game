@@ -1,0 +1,21 @@
+const Discord = require('discord.js')
+const StateManager = require('../../utils/StateManager');
+const {Command} = require('advanced-command-handler');
+const config = require('../../config')
+
+module.exports = new Command({
+    name: '',
+    description: '',
+    // Optionnals :
+    usage: '',
+    category: '',
+    tags: [],
+    aliases: [],
+    userPermissions: [],
+    channels: [],
+    clientPermissions: [],
+    cooldown: 10
+}, async(client, message, args) => {
+  
+
+});

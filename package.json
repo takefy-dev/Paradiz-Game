@@ -1,0 +1,26 @@
+{
+  "name": "ParadizGame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "advanced-command-handler": "^2.4.0",
+    "discord-logs": "^1.9.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "discord.js-better-embed": "^1.2.1",
+    "dotenv": "^8.2.0",
+    "luxon": "^1.26.0",
+    "mysql2": "^2.2.5",
+    "set-random-interval": "^1.1.0"
+  },
+  "devDependencies": {
+    "hex-color-regex": "^1.1.0"
+  }
+}
